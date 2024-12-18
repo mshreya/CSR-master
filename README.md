@@ -2,6 +2,9 @@
 
 This is a small website designed for corporate social responsibility (CSR) initiatives within a company. It allows employees to register for events and volunteer for activities. The website supports two types of users: Admins and Users.
 
+## Developed By
+Developed for Clarivate's CSR program
+
 ## Features
 
 - **Admin Role:**
